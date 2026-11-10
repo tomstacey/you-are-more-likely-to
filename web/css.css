@@ -118,3 +118,19 @@ body { margin: 0; }
 	padding: 0.25rem 0.5rem;
 }
 .error p { font-size: 1.25rem; }
+.revived {
+	font-size: 1.25rem;
+	margin: 0 5% 1.5rem;
+}
+.revived a, .memory a {
+	color: #ecf0f1;
+	text-decoration: underline;
+}
+.memory {
+	max-width: 36rem;
+	margin: 0 auto 1.5rem;
+	line-height: 1.5;
+	font-style: italic;
+	opacity: 0.9;
+}
+.memory p { margin: 0 0 0.75rem; }
